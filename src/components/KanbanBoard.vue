@@ -52,7 +52,7 @@ const lanes = ref([
 					{ done: true, task: "Create PNG file" },
 					{ done: false, task: "Create ICO file" },
 				],
-				img: "/screenshot.jpg",
+				img: "/kanban-board-v2/screenshot.jpg",
 			},
 		],
 	},
